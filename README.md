@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DNL-22
+- 👋 Hi, I’m Daniel Bertoldo @DNL-22
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
